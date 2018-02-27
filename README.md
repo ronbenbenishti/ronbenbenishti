@@ -2,7 +2,6 @@
 http://github.benbenishti.net
 <html>
 <head>
-<title>Ron Benbenishti - GitHub</title>
 <meta http-equiv="refresh" content="2; URL=https://github.com/ronbenbenishti/">
 <meta name="keywords" content="automatic redirection">
 </head>
