@@ -1,5 +1,4 @@
 # ronbenbenishti
-http://github.benbenishti.net
 <html>
 <head>
 <meta http-equiv="refresh" content="2; URL=https://github.com/ronbenbenishti/">
